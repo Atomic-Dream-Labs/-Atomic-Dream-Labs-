@@ -1,0 +1,63 @@
+# Atomic Dream Labs
+
+> **Offline-first Artificial Intelligence, Theoretical Physics, and High-Performance Systems Architecture.**
+
+Atomic Dream Labs is an independent, clean-room research and software development laboratory based in Greenup, Kentucky. Founded and led by **William Brian Ware**, the lab designs deterministic, local AI models, explores scalar field modifications to gravity, and builds high-performance custom engine frameworks.
+
+---
+
+## 🛠️ Core Research & Development Focus
+
+### 🧠 1. Sovereign AI & Local Architectures
+* **Sovereign Epistemic Evolution Model (SEEM):** An offline-first, highly deterministic local AI architecture engineered for privacy, zero cloud dependency, and long-term state persistence.
+* **Vector Symbolic Architecture (VSA):** A hyperdimensional computing core providing continuous symbolic reasoning, dynamic memory loops, and ultra-low-latency pattern matching directly on local hardware.
+
+### 🌌 2. Theoretical Physics & Cosmology
+* **Coherence Field Theory (CFT):** A modified gravity framework examining scalar field dynamics and non-local gravitational interactions to explain galactic rotation curves without relying on dark matter hypotheses.
+* **Informational Quantum Gravity (IQG) & The Ware Constant:** Physics modeling linking thermodynamic information entropy with spacetime geometry, utilizing the Ware Constant ($W \approx 0.08$) within Modified Newtonian Dynamics (MOND) and SPARC dataset analyses.
+
+### ⚙️ 3. Systems Triage & Security Frameworks
+* **JKillnHide (formerly Omega Defense):** A low-level PowerShell process-monitoring and system telemetry inspection tool designed for deep diagnostics, native Windows Management Instrumentation (WMI) monitoring, and stealth system health triage.
+
+### 🎮 4. Engine Architecture & Game Development
+* **Project Cold Boot:** An action-puzzle reality-editing title built in Godot 4.x leveraging C++ GDExtension integration.
+* **DLRSE & AC-3 Solvers:** Custom graph simulation kernels and constraint solvers engineered to drive real-time graph transformations and dual-reality shaders.
+
+### ⛓️ 5. Decentralized Systems
+* **BlockSwarm Framework:** A suite of Solidity smart contracts designed for decentralized autonomous organization (DAO) governance, state validation, and cryptographic Merkle proof verification.
+
+---
+
+## 📂 Pinned Repositories
+
+| Repository | Primary Tech | Description |
+| :--- | :--- | :--- |
+| **`seem-core`** | C++ / Python | Sovereign Epistemic Evolution Model framework for offline AI execution. |
+| **`vsa-cleanroom`** | C++ | Vector Symbolic Architecture implementation for hyperdimensional symbolic reasoning. |
+| **`coherence-field-theory`** | Python / LaTeX | Field equations, numerical simulations, and SPARC data fits for CFT and IQG. |
+| **`jkillnhide`** | PowerShell / WMI | Low-level process monitoring, triage, and security framework. |
+| **`project-cold-boot`** | Godot / C++ | Source, shaders, and DLRSE graph engines for *Project Cold Boot*. |
+| **`blockswarm-contracts`** | Solidity | Governance DAOs, Merkle verifiers, and smart contract protocol layers. |
+
+---
+
+## 🔬 Director & Principal Researcher
+
+* **William Brian Ware** (*publishes under William B. Ware and Brian Ware*)
+* **Location:** Greenup, Kentucky
+* **Focus:** Offline-First AI Systems, Modified Gravity Theory, Engine Optimization
+
+---
+
+## 📜 License & Citation
+
+Software and research repositories produced by Atomic Dream Labs are distributed under open-source licenses (MIT/Apache 2.0) or custom research agreements depending on the module. 
+
+When citing theoretical work or physics papers:
+```bibtex
+@article{ware2026cft,
+  author = {Ware, William Brian},
+  title = {Coherence Field Theory and Informational Quantum Gravity},
+  journal = {Atomic Dream Labs Technical Report Series},
+  year = {2026}
+}
